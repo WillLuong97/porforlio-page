@@ -1,0 +1,91 @@
+.project{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 120px;
+}
+
+.project .project-header h3{
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.project .project-header a{
+    background-color:black;
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;    
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    float: right;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+.project h3{
+    color: black;
+    font-size: 20px;
+
+}
+
+
+
+
+.project > .project-display h4{
+    margin-bottom: 8px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+  
+}
+
+.project > .project-display h3{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .project > .project-display span{
+    display: inline-block;
+    border-radius: 50%;
+    color: #1d809f;
+    font-size: 36px;
+    line-height: 120px;    
+} */
+
+
+#projects{
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+}
+
+#projects td, #projects th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#projects tr:nth-child(even){background-color: #f2f2f2;}
+
+#projects tr:hover {background-color: #ddd;}
+
+#projects th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+}
+

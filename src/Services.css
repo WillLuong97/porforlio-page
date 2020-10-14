@@ -1,0 +1,47 @@
+.services{
+    background-color: #1d809f;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+
+}
+
+.services h3 {
+    font-size: 48px;
+    text-transform: uppercase;
+    color: gold;
+    margin: 0;
+    padding: 0;
+}
+
+.services p{
+    font-size: 15px;
+    color: white;
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+.services h1 {
+    font-size: 20px;
+    color: white;
+    margin-bottom: px;
+    margin-top: 0;
+
+}
+
+
+.services h2{
+    font-size: 15px;
+    color:white;
+
+}
+
+.services > .technology{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-left: 100px;
+
+
+}

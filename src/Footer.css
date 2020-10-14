@@ -1,0 +1,24 @@
+.Footer{
+    background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 120px;
+    
+}
+
+.Footer .Footer-Header h3{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Footer > .icon{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Footer > .icon span{
+    font-size: 36px;
+    line-height: 90px;
+    color: bisque;
+
+}
